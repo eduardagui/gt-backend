@@ -32,5 +32,4 @@ Com o servidor rodando, acesse no navegador:
 2. Instale as dependências:
    ```bash
    npm install
-
-   integrante: Maria Eduarda Alves Guimarães
+ integrante: Maria Eduarda Alves Guimarães
